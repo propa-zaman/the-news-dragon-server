@@ -1,4 +1,4 @@
 # the-news-dragon-client
 Features:
-<li>React boostrap<li/>
-<li>firebase authentication<li/>
+1.React boostrap
+2.firebase authentication
