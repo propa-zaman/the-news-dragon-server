@@ -1,4 +1,10 @@
 # the-news-dragon-client
-Features:
-1.React boostrap
-2.firebase authentication
+## Features:
+
+-React boostrap </br>
+-Firebase authentication <br/>
+-Moment js for dynamic date and time <br/>
+-React fast Marquee <br/>
+-React Icons <br/>
+-Express js <br/>
+
