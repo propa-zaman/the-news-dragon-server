@@ -1,31 +1,22 @@
 {
-<<<<<<< HEAD
-  "name": "the-news-dragon-server",
+  "name": "the-news-dragon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
-=======
-  "name": "the-news-dragon-client",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
     "firebase": "^9.21.0",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
@@ -47,6 +38,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "vite": "^4.3.2"
->>>>>>> origin/main
   }
 }
